@@ -1,13 +1,13 @@
 # 【ReactJs 入门】 新冠追踪器教学 | Building ReactJs Covid 19 Tracker
 
-Click here for ##[Live Demo](https://infallible-panini-d5773c.netlify.app/)
+Click here for [Live Demo](https://infallible-panini-d5773c.netlify.app/)
 
 ## Description
 
 这次教学包含着如何使用ReactJs并且结合超过三种的第三方代码（ReactJs, Material Ui, Axios and more）来实现一个完整的应用程式。
 This tutorial contains a simplest to use ReactJs and combined more than three third-party packages/ frameworks such as ReactJs, Material Ui, Axios and more to build a complete application.
 
-Click here to watch [playlist](https://www.youtube.com/playlist?list=PLmYz9-J25lG7fZn2Tp2T1cDfgQdEeyIgp)
+Click here to watch the [playlist](https://www.youtube.com/playlist?list=PLmYz9-J25lG7fZn2Tp2T1cDfgQdEeyIgp)
 
 
 ## Instruction
